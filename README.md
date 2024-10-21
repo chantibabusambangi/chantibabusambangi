@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chantibabusambangi
-- 👀 I’m interested in machine-learning and data science
+- 👀 I’m Studying in IIITDM KANCHEEPURAM CS-AI
 - 🌱 I’m currently learning software development
 
 <!---
