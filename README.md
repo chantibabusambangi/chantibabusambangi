@@ -23,6 +23,13 @@
   </a>
 </p>
 
+### 🏅 LeetCode Badges (Generic)
+### 🏅 LeetCode Badges (Visual - Not User-Specific)
+
+![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-100%20Days-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50%20Days-yellow?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode 2 Weeks](https://img.shields.io/badge/LeetCode-2%20Weeks-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
